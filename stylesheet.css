@@ -42,7 +42,7 @@ body {
 			margin: 0;
 			width: 65%;
 		 }
-		.questions h1 {
+		.questions h1, h2 {
 			margin-left: 4em;
 			margin-top: 2em;
 		}
