@@ -22,7 +22,7 @@ body {
 			font-size:3.5em
 			margin-left: 0.5em
 		}
-		#page-menu a:link, a:visited, a:hover, a:active, a:focus {
+		#page-menu a:link, #page-menu a:visited, #page-menu a:hover, #page-menu a:active, #page-menu a:focus {
 				text-decoration:none;
 				font-weight:bold;
 				color:1C1A1A;
