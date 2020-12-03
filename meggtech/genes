@@ -1,0 +1,28 @@
+<!DOCKTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Egg Discord Server</title>
+		<link rel = "stylesheet" type = "text/css" href = "https://person552.github.io/EggDiscord/stylesheet.css"/>
+		<style>
+		</style>
+		<link rel="shortcut icon" type="image/png" href="https://cdn.discordapp.com/attachments/780837363688407050/780876884069580820/egg.gif"/>
+	</head>
+	<body>
+	<div id="jsHeading"></div>
+	
+	<div class="questions">
+		<p><a>Go back to the meggtech page.</a></p>
+		
+		<h1>Genes</h1>
+		<p>This is a list of all the discovered special egg genes and what they do.</p>
+		<ul>
+			<li><p>F92 - Grows wings</p></li>
+			<li><p>P21 - Adds an Eggbility</p></li>
+			<li><p>X45 - Improves the Eggbility</p></li>
+		</ul>
+			
+	</div>
+	<script src = "https://person552.github.io/EggDiscord/heading.js"></script>
+	</body>
+</html>
