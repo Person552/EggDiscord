@@ -1,0 +1,55 @@
+<!DOCKTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Egg Discord Server</title>
+		<link rel = "stylesheet" type = "text/css" href = "https://person552.github.io/EggDiscord/stylesheet.css"/>
+		<style>
+		</style>
+		<link rel="shortcut icon" type="image/png" href="https://cdn.discordapp.com/attachments/780837363688407050/780876884069580820/egg.gif"/>
+	</head>
+	<body>
+	<div id="jsHeading"></div>
+	
+	<div class="questions">
+		<h1 id="meggtech">Meggtech</h1>
+		<p>Meggtech is a company created by Megging Soul. Meggtech was a secret but its existence is now public and has even been mentioned in the news. Meggtech invents and manufactures various devices and gadgets that are meant to help the public and the country.</p>
+		
+		<h2>Devices</h2>
+		<p>This is a list of megg tech’s devices and their functions.</p>
+		<ul>
+			<li><p>Healer - Can heal most wounds after charging.</p></li>
+			<li><p>Cloaking Device - Can hide someone's physical form with the click of a button.</p></li>
+			<li><p>Pain’r Brain’r - Come in pairs, one dominant, once the dominant one's user thinks of a chosen word or image, the other one's user will be shocked.</p></li>
+			<li><p>Boiler Boom - Makes the user immune to the Pain'r Brain'r and other mind manipulating devices.</p></li>
+			<li><p>Roper - Upon a hard contact it shoots ropes out from its sides, entangling whatever it hit.</p></li>
+		</ul>
+		
+		<h2>Abilities</h2>
+		<p>Abilities are like superpowers, they give you some kinda control over a certain thing. Here is a list of abilites! (If you wanna see who has what abilites <a href="https://discord.gg/tgxtHANTnt">join the discord server</a>)</p>
+		<ul>
+			<li><p>Telekinesis</p></li>
+			<li><p>Pyrokinesis</p></li>
+			<li><p>Aerokinesis</p></li>
+			<li><p>Hydrokinesis</p></li>
+			<li><p>Geokinesis</p></li>
+			<li><p>Azur Pyrokinesis</p></li>
+			<li><p>Cryokinesis</p></li>
+			<li><p>Tectokinesis</p></li>
+			<li><p>Dimensikinesis</p></li>
+			<li><p>Ferrokinesis</p></li>
+			<li><p>Fragokinesis</p></li>
+			<li><p>Electrokinesis</p></li>
+		</ul>
+		<h2>Genes</h2>
+		<p>This is a list of all the discovered special egg genes and what they do.</p>
+		<ul>
+			<li><p>F92 - Grows wings</p></li>
+			<li><p>P21 - Adds an Eggbility</p></li>
+			<li><p>X45 - Improves the Eggbility</p></li>
+		</ul>
+			
+	</div>
+	<script src = "https://person552.github.io/EggDiscord/heading.js"></script>
+	</body>
+</html>
